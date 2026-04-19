@@ -1,34 +1,71 @@
-# eZ Publish Mirror
+# Exponential Platform — Community Training Materials Mirror
 
-## Files released to the eZ Community related to the eZ Publish CMS 
+> **Exponential Platform** is 100% source-compatible with the original eZ Publish software stack.  
+> Trademark usage has been removed. The underlying technology, content model, and APIs are identical.  
+> Everything you learn from these books applies directly to Exponential Platform today.
 
-# Books
+---
 
-## Why we continue to mirror these valuable training materials from eZ?
+## 📚 FREE Training Books — Download. Learn. Share.
 
-These pdf books were originally sold for minimal cost by eZ Systems to the developer community to speed up developer training and geberal adoption of the software stack for web application publishing.
+**These are the best training materials ever produced for this platform. They are free. They are here. Use them.**
 
-Not long after the completion of the third book release all of these books were provided for free (the price of a fake email address for future advertizing mails only) to all anonymouse users of the company website ez.no to further grow the market and drive educational efforts to adopt the system.
+Three professional-grade books written by the original development team cover everything from first install to advanced content modelling. They were originally sold commercially, then released for free to grow the developer community. We mirror them here so they are never lost and always one click away.
 
-because these book pdfs were distributed for no charge and freely available we have archives them here as a reference for current users and developers. as well as future community members who need training materials betond the limited distribution by the original author eZ Systems.
+---
 
-Please remember that originally eZ Publish core values centered around the simple principles of sharing information.
+## 📥 Download the Books Right Now
 
-Feel free to now sing a little of the "Sharing song" by Jack Johnson that was a community theme aong we called the "eZ Sharing Song" that teaches the fundementals of our community sharing values and how it works if you join in the sharing!
+> Right-click → Save As, or click **View raw** on the PDF page to download.
 
-## Book PDFs
+| Book | What you will learn | Download |
+|---|---|---|
+| **Exponential Platform Basics** | Installation, templates, content classes, views, the full beginner path | [📄 PDF](books/ez_publish_basics_english.pdf) |
+| **Content Management Basics** | Day-to-day editorial workflows, content objects, sections, permissions | [📄 PDF](https://github.com/se7enxweb/mirror.ezpublish.se7enx.com/blob/master/books/ez_publish_content_management_basics.pdf) |
+| **Advanced Content Management** | Deep content modelling, custom datatypes, advanced permission schemes, workflow | [📄 PDF](https://github.com/se7enxweb/mirror.ezpublish.se7enx.com/blob/d1c9393d30e8f7de2cbbe25f701960a4ff90d2d6/books/ez_publish_advanced_content_management.pdf) |
 
- - "eZ Publish Basics"  [PDF](books/ez_publish_basics_english.pdf)
- - "eZ Publish Advanced Content Management" [PDF](https://github.com/se7enxweb/mirror.ezpublish.se7enx.com/blob/d1c9393d30e8f7de2cbbe25f701960a4ff90d2d6/books/ez_publish_advanced_content_management.pdf)
- - "eZ Publish Content Management Basics" [PDF](https://github.com/se7enxweb/mirror.ezpublish.se7enx.com/blob/master/books/ez_publish_content_management_basics.pdf)
+**Start with Basics. Move to Content Management Basics. Finish with Advanced.**  
+That path will take a complete beginner to a confident Exponential Platform developer.
 
-A Friendly Mirror of eZ Publish related downloads hosted at: https://mirror.ezpublish.se7enx.com/
+---
 
-# BuildSVN
+## Why these books still matter in 2026
 
-BuildSVN was a basic solution to building and preparing eZ Publish for use from svn repository. Sadly this work did not teach maturity. Here is the remains of these efforts for learning.
+Exponential Platform — driven by [7x](https://se7enx.com) — keeps this PHP CMS alive, maintained, and running on PHP 8.2, 8.3, 8.4 and beyond. The architecture these books describe has not changed. The content model, the template engine, the permission system, the REST API — all of it is the same. There is no other documentation as complete, as well-structured, or as practical as these three books.
 
-# Etc
+**If you are:**
+- A developer picking up Exponential Platform for the first time
+- A site owner who wants to understand how the system works
+- A team onboarding new contributors to an existing Exponential Platform project
 
-Other loose files of interest to developers are available for study but are not specifically documented.
+**→ These books are your fastest path to productive.**
+
+---
+
+## Share this mirror
+
+These materials exist because the original community believed in sharing knowledge. If these books help you, pass the link on:
+
+- Share this repo with your team
+- Link to it from your project documentation
+- Star the repo so others can find it
+
+Mirror also hosted at: **https://mirror.ezpublish.se7enx.com/**
+
+---
+
+## What else is in this repo
+
+### BuildSVN
+
+Historical scripts for building and preparing the platform from SVN. Preserved here as a reference for understanding the project's build history.
+
+### Etc
+
+Additional loose files of interest to platform developers — browsable in the repository file tree.
+
+---
+
+> **Note:** This project is not affiliated with eZ Systems or Ibexa.  
+> Maintained by [7x / se7enxweb](https://se7enx.com) — 24+ years supporting this platform.
 
